@@ -27,6 +27,21 @@ header {
 /* fine sezione titolo e sottotitolo */
 
 /* stile main */
+#testo-evidenziato {
+    background-color: yellow;
+}
+
+/* stile tabella */
+#intestazione-tabella {
+    background-color: rgb(0, 76, 103);
+    color: aliceblue;
+    font-size: large;
+}
+
+.sfondo-celeste{
+    background-color: deepskyblue;
+}
+/* fine stile tabella */
 /* fine stile main */
 
 /* stile footer */
