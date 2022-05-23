@@ -1,5 +1,30 @@
 /* stile header */
+header {
+    background-color: cornflowerblue;
+}
+
+#pic-titolo {
+    height: 30px;
+}
 /* fine stile header */
+
+/* sezione titolo e sottotitolo */
+#scritta-grey {
+    color: darkgrey;
+}
+#scritta-celeste {
+    color: darkturquoise;
+}
+#foto-1 {
+    height: 250px;
+}
+#foto-2 {
+    height: 250px;
+}
+.formato-piccolo {
+    font-size: 10px;
+}
+/* fine sezione titolo e sottotitolo */
 
 /* stile main */
 /* fine stile main */
